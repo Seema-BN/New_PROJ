@@ -1,2 +1,3 @@
 a =10
-print(a)
+b=9
+print(a+b)
